@@ -23,4 +23,8 @@ npm install solc -g
 ```
 solcjs MyContract.sol  --optimize --abi --bin
 ```
+一次性编译多个文件：
+```
+solcjs --bin --abi --include-path D:\workspace_remix\test\*.sol -o output_directory
+```
 
