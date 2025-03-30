@@ -2,6 +2,11 @@
 
 ### Remix IDE 简介
 
+安装命令：
+```
+npm install -g @remix-project/remixd
+```
+
 本地运行命令：
 ```
 remixd -s D:\workspace_remix\ --remix-ide http://remix.ethereum.org/
