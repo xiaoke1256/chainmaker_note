@@ -4,7 +4,7 @@
 
 本地运行命令：
 ```
-remixd -s D:\workspace_remix  --remix-ide localhost  
+remixd -s D:\workspace_remix\ --remix-ide http://remix.ethereum.org/
 ```
 
 ### 用 solcjs 编译
