@@ -14,12 +14,13 @@ remixd -s D:\workspace_remix\ --remix-ide http://remix.ethereum.org/
 
 ### 用 solcjs 编译
 
+安装命令：
+```
+npm install solc -g
+```
+
 编译命令：
 ```
 solcjs MyContract.sol  --optimize --abi --bin
 ```
 
-安装命令：
-```
-npm install solc -g
-```
