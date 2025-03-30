@@ -18,3 +18,8 @@ remixd -s D:\workspace_remix\ --remix-ide http://remix.ethereum.org/
 ```
 solcjs MyContract.sol  --optimize --abi --bin
 ```
+
+安装命令：
+```
+npm install solc -g
+```
