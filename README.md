@@ -9,7 +9,7 @@ npm install -g @remix-project/remixd
 
 本地运行命令：
 ```
-remixd -s D:\workspace_remix\ --remix-ide http://remix.ethereum.org/
+remixd -s D:\workspace_remix\ --remix-ide https://remix.ethereum.org/
 ```
 
 ### 用 solcjs 编译
