@@ -1,5 +1,10 @@
 # chainmaker_note
 
+### 搭建区块链环境
+
+https://docs.chainmaker.org.cn/v2.3.6/html/quickstart/%E9%80%9A%E8%BF%87%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%BD%93%E9%AA%8C%E9%93%BE.html
+
+
 ### Remix IDE 简介
 
 安装命令：
